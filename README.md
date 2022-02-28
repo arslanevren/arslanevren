@@ -60,7 +60,7 @@
 </a>
 
 <a href="https://github.com/arslanevren/HandsOn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arslanevren&repo=CapStone&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arslanevren&repo=HandsOn&theme=algolia" />
 </a>
 </p>
   
