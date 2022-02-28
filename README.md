@@ -1,11 +1,12 @@
-DATA SIENCE
+Evren ARSLAN
+ML Engineer in Healthcare
 ## This is Evren Arslan...:wave:
 - :telescope: I’m currently working on Data Visualization Tools (Matplotlib | Seaborn | Pandas's Own Visualization Features)
 - :seedling: I’m currently learning data visualization tools (Matplotlib | Seaborn)
 - :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer
 ## :man::woman: Social
 [![Linkedin: VPA]()
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:earslan3e@gmail.com)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:earslan4e@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://evrenarslan.medium.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evrenarslan" alt="evrenarslan" /> </p>
 ## :computer: Data Visualization
