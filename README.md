@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
 <h2>Evren ARSLAN</h2>
-<p><h2>ML Engineer in Healthcare</h2></p>
+<h2>ML Engineer in Healthcare</h2>
 </body>
 </html>
 - :telescope: I’m currently working on Data Visualization Tools (Matplotlib | Seaborn | Pandas's Own Visualization Features)
