@@ -1,4 +1,4 @@
-<p><h2>Evren ARSLAN</h2></p>
+<h2>Evren ARSLAN</h2>
 <p><h2>ML Engineer in Healthcare</h2></p>
 - :telescope: I’m currently working on Data Visualization Tools (Matplotlib | Seaborn | Pandas's Own Visualization Features)
 - :seedling: I’m currently learning data visualization tools (Matplotlib | Seaborn)
