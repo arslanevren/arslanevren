@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<h2>Evren ARSLAN</h2>
+<b>Evren ARSLAN</b>
 <h2>ML Engineer in Healthcare</h2>
 </body>
 </html>
