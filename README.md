@@ -1,12 +1,11 @@
-<div> <h1 align="center"> Hi There! I'm Evren Arslan 👋 </h1> </div>
-<p>- 👀 I’m interested in Data Science</p>
-<p>- 🔭 I’m currently working on Machine Learning</p>
-<p>- 🌱 I’m a lifetime learner and nowadays learning NLP (Neuro Linguistic Programming)</p>
-<p>- 💞️ I’m looking to collaborate on Machine Learning projects</p>
-<p>- 💬 I will be honored to share my experience and knowledge with you and always be eager to learn what you will offer</p>
+<div> <h1 align="center"> Evren Arslan </h1> </div>
+<p>- Interested in Data Science </p>
+<p>- Currently working on Machine Learning </p>
+<p>- Lifetime learner and nowadays he learns Azure Data Science and Databricks Spark Apache </p>
+<p>- Honored to share his experience and knowledge with everone and always be eager to learn </p>
 <p>- 📫 How to reach evrenarslan@gmx.de</p>
 
-<div> <h1 align="center"> 👨 SOCIAL 👩 </h1> 
+<div> <h1 align="center"> SOCIAL PLATFORMS </h1> 
 <p align="center">
 <a href="https://www.linkedin.com/in/arslanevren/"/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:earslan4e@gmail.com"><img src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" /></a>
